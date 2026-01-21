@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 #include <stdlib.h>
 float iva = 0.15;
@@ -116,3 +117,5 @@ int main() {
     printf("\nSistema finalizado. Gracias por su compra.\n");
     return 0;
 }
+
+```
